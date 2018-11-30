@@ -1,1 +1,18 @@
 c:\users\clashermes\documents\visual studio 2015\Projects\QCMProjetIA\QCM\bin\Debug\QCM.exe.config
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\bin\Debug\QCM.exe.config
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\obj\Debug\QCM.csprojResolveAssemblyReference.cache
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\obj\Debug\QCM.Properties.Resources.resources
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\obj\Debug\QCM.csproj.GenerateResource.Cache
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\bin\Debug\QCM.exe
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\bin\Debug\QCM.pdb
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\obj\Debug\QCM.exe
+C:\Users\clashermes\Desktop\QCMProjetIA\QCMProjetIA\QCM\obj\Debug\QCM.pdb
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\bin\Debug\QCM.exe.config
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\obj\Debug\QCM.exe
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\obj\Debug\QCM.pdb
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\bin\Debug\QCM.exe
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\bin\Debug\QCM.pdb
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\obj\Debug\QCM.csprojResolveAssemblyReference.cache
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\obj\Debug\QCM.Properties.Resources.resources
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\obj\Debug\QCM.csproj.GenerateResource.Cache
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\QCM\obj\Debug\QCM.Form1.resources

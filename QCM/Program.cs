@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace QCM
 {
@@ -14,34 +16,21 @@ namespace QCM
         /// </summary>
         [STAThread]
         static void Main()
-        {
-
-            //stocker tout le monde dans une liste
-            //selectionner 20 question, selection de 20 fois une question
-            System.Text.Encoding encoding = System.Text.Encoding.GetEncoding("iso-8859-1");
-            StreamReader monStreamReader = new StreamReader(@"Question.xml", encoding);
-            string ligne = monStreamReader.ReadLine();
-            int nombreLigne = int.Parse(ligne);//la première ligne du document texte comporte uniquement le nombre de question écrites
-
-            List<Question> listeQuestion;
-
-            for (int i = 0; i < nombreLigne; i++)
-            {
-                ligne = monStreamReader.ReadLine();
-                string[] intermediaire = ligne.Split(';'); //le caractère séparateur entre chaque information  est ";"
-
-                Q Question = new Question();//
-                Q = Question();
-              
-            }
-
-            monStreamReader.Close();
-
+        {                     
+        
+            //Toutes les questions/réponses sont mises dans qcm = liste d'objets Question
+                                 
+           
+            StreamReader reader = new StreamReader("../../question.xml");
+            Questionnaire questions = (Questionnaire)new XmlSerializer(typeof(Questionnaire)).Deserialize(reader);
+            reader.Close();
 
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form1(questions));
+            
+
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\bin\Debug\Test.exe.config
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\bin\Debug\Test.exe
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\bin\Debug\Test.pdb
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\bin\Debug\QCM.exe
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\bin\Debug\QCM.pdb
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\obj\Debug\Test.exe
+C:\Users\jdoche\Downloads\QCMProjetIA-20181130T133414Z-001\QCMProjetIA\Test\obj\Debug\Test.pdb

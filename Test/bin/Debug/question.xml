@@ -13,10 +13,10 @@
     <Question>
       <Id>2</Id>
       <Enonce>HEllol bis v2 </Enonce>
-      <ReponseA>ytj</ReponseA>
-      <ReponseB>tj,ut</ReponseB>
-      <ReponseC>t,u</ReponseC>
-      <ReponseD>tu,tu</ReponseD>
+      <ReponseA>A</ReponseA>
+      <ReponseB>B</ReponseB>
+      <ReponseC>C</ReponseC>
+      <ReponseD>D</ReponseD>
       <BonneReponse>B</BonneReponse>
     </Question>
     <Question>

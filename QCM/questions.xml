@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Questionnaire>
+    <Questions>
+      <Question>
+        <Enonce>Etre ou ne pas etre?</Enonce>
+        <ReponseA>Je suis jeune, il est vrai</ReponseA>
+        <BonneReponse>La valeur n'attend pas le nombre des années</BonneReponse>
+      </Question>
+      <Question>
+        <Enonce>Etre ou ne pas etre?</Enonce>
+        <ReponseA>Je suis jeune, il est vrai</ReponseA>
+        <BonneReponse>La valeur n'attend pas le nombre des années</BonneReponse>
+      </Question>
+      <Question>
+        <Enonce>Etre ou ne pas etre?</Enonce>
+        <ReponseA>Je suis jeune, il est vrai</ReponseA>
+        <BonneReponse>La valeur n'attend pas le nombre des années</BonneReponse>
+      </Question>
+    </Questions>
+</Questionnaire>
